@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\bin\Debug\netcoreapp3.1\Tratamento-Excecoes.exe
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\bin\Debug\netcoreapp3.1\Tratamento-Excecoes.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\bin\Debug\netcoreapp3.1\Tratamento-Excecoes.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\bin\Debug\netcoreapp3.1\Tratamento-Excecoes.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\bin\Debug\netcoreapp3.1\Tratamento-Excecoes.dll
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\bin\Debug\netcoreapp3.1\Tratamento-Excecoes.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.dll
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Tratamento-Excecoes\obj\Debug\netcoreapp3.1\Tratamento-Excecoes.genruntimeconfig.cache

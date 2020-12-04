@@ -1,0 +1,13 @@
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\bin\Debug\netcoreapp3.1\Problema-Exemplo.exe
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\bin\Debug\netcoreapp3.1\Problema-Exemplo.deps.json
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\bin\Debug\netcoreapp3.1\Problema-Exemplo.runtimeconfig.json
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\bin\Debug\netcoreapp3.1\Problema-Exemplo.runtimeconfig.dev.json
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\bin\Debug\netcoreapp3.1\Problema-Exemplo.dll
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\bin\Debug\netcoreapp3.1\Problema-Exemplo.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.csprojAssemblyReference.cache
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.AssemblyInfoInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.AssemblyInfo.cs
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.dll
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.pdb
+C:\Users\mateus.wagnitz\Desktop\C#\11 - Tratamento de exceções\Tratamento-Excecoes\Problema exemplo\obj\Debug\netcoreapp3.1\Problema-Exemplo.genruntimeconfig.cache
